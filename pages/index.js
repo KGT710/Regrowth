@@ -156,7 +156,7 @@ export default function CinematicLoveLetter() { return ( <div className="min-h-s
       <div className="rounded-3xl overflow-hidden shadow-xl">
         <iframe
           style={{ borderRadius: '12px' }}
-          src="https://open.spotify.com/embed/track/7ouMYWpwJ422jRcDASZB7?utm_source=generator"
+          https://open.spotify.com/track/1SRw5p2lVAi7RGlHEmZg66?si=xY8-ax0rSWqL4mD9tnzoyA
           width="100%"
           height="152"
           frameBorder="0"
